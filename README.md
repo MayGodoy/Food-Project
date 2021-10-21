@@ -1,4 +1,4 @@
-# Food-Project
+# Food-Project 🌯🥘🍝🍜🍣🥟
  
  The food project is a project based in NLP. It's one of the project I did in my training as data Scientist. 
  
