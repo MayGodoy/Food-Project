@@ -38,3 +38,46 @@ There are the more frecuent meats
 
 ![Meats](https://user-images.githubusercontent.com/58269063/150573652-020a5a87-cf57-4b85-9a17-47f2ccf806fa.png)
 
+And this the more frecuents ingredients 
+
+('salt', 18049),
+ ('onions', 7972),
+ ('olive oil', 7972),
+ ('water', 7457),
+ ('garlic', 7380),
+ ('sugar', 6434),
+ ('garlic cloves', 6237),
+ ('butter', 4848),
+ ('ground black pepper', 4785),
+ ('all-purpose flour', 4632),
+ ('pepper', 4438),
+ ('vegetable oil', 4385),
+ ('eggs', 3388),
+ ('soy sauce', 3296),
+
+## Conclusion:
+![Cluster1](https://user-images.githubusercontent.com/58269063/150975479-b90662be-1085-4024-b2a5-1911c0d8fc2c.png)
+![Cluster2](https://user-images.githubusercontent.com/58269063/150975486-6d36856a-22fb-42ba-a6c8-d4f3cb917f3c.png)
+
+
+
+![Cluster3](https://user-images.githubusercontent.com/58269063/150975489-450311f5-ac98-4bfa-86f4-880877aa5dfb.png)
+![Cluster0](https://user-images.githubusercontent.com/58269063/150975490-5311087d-409d-48f4-b6fd-e7f61232f843.png)
+
+
+If We want to select the most different cuisine We have to select Cuisine and recipies of diferent clusters (ex. Italian of C1 and Mexican of C0) 
+
+-Mexican Cluster 0 : cooked chicken, enchilada sauce, sliced green onions, picante sauce, green pepper, corn tortillas, canned black beans, shredded lettuce, sour cream, shredded cheddar cheese, garlic cloves, canola oil.
+-Italian Cluster 1 : pimentos, sweet pepper, dried oregano, olive oil, garlic, sharp cheddar cheese, pepper, swiss cheese, provolone cheese, canola oil, mushrooms, black olives, sausages.
+ 
+
+But if our goal its have the more cuisines with the same ingredients We have to select diferents cuisines from the same cluster. 
+
+-Mexican Cluster 1 : olive oil, purple onion, fresh pineapple, pork, poblano peppers, corn tortillas, cheddar cheese, ground black pepper, salt, iceberg lettuce, lime, jalapeno chilies, chopped cilantro fresh.
+-Italian Cluster 1 : pimentos, sweet pepper, dried oregano, olive oil, garlic, sharp cheddar cheese, pepper, swiss cheese, provolone cheese, canola oil, mushrooms, black olives, sausages.
+
+
+Also We can select all the cuisine with the recipies from diferent clusters:
+
+-Italian Cluster 3 :chopped tomatoes, fresh basil, garlic, extra-virgin olive oil, kosher salt, lat leaf parsley.
+-Italian Cluster 1 : pimentos, sweet pepper, dried oregano, olive oil, garlic, sharp cheddar cheese, pepper, swiss cheese, provolone cheese, canola oil, mushrooms, black olives, sausages.
